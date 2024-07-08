@@ -6,4 +6,5 @@ class Piezas:
         self.posicion = posicion
         
         
-        
+    def movimiento(self, movimiento_col, movimiento_fila):
+        pass

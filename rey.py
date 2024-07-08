@@ -1,4 +1,4 @@
-from piezas import Piezas
+from Piezas import Piezas
 
 class Rey (Piezas):
     def __init__(self, nombre, color, posicion):
